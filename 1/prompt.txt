@@ -1,0 +1,23 @@
+You are an expert in database architecture and cloud systems. I need your help in choosing the most suitable database type for a new application based on specific technical requirements.
+
+Please apply Chain-of-Thought (CoT) reasoning to evaluate the requirements step-by-step and make a justified recommendation.
+
+Here are the requirements:
+
+1. The application is a social platform expected to have millions of users.
+2. It needs to store:
+   - User profiles
+   - Posts
+   - Connections between users (i.e., friend or follow relationships)
+3. High data read speed is required.
+4. Read/write ratio is around 80% reads, 20% writes.
+5. Scalability is very important due to expected user growth.
+
+Your task is to:
+- Analyze each requirement one-by-one
+- Explain how each one impacts the choice of a database
+- Compare at least two types of databases (e.g., relational, document-based, graph, key-value)
+- Choose the most suitable database type (or combination if necessary)
+- Justify your recommendation clearly
+
+Please format your answer as a logical and readable step-by-step reasoning process (like solving a math word problem), and end with a final conclusion.
