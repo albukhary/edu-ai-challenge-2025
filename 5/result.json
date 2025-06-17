@@ -1,0 +1,41 @@
+[
+  {
+    "sentiment": "Negative",
+    "isRelevant": true,
+    "mainSubject": "Sensor tracking reliability and dongle connectivity",
+    "positives": [],
+    "painPoints": [
+      "Sensor stops tracking for half a second frequently",
+      "Issue persists even when wired (plugged in)",
+      "Dongle failed to work initially",
+      "High price for a product with these issues"
+    ],
+    "improvementSuggestions": [
+      "Improve sensor tracking consistency at high polling rates",
+      "Ensure reliable dongle connectivity"
+    ],
+    "featuresMentioned": [
+      "Sensor tracking",
+      "Polling rate (8000hz)",
+      "Wired connectivity",
+      "Wireless dongle"
+    ],
+    "userExpertise": "Experienced"
+  },
+  {
+    "sentiment": "Mixed",
+    "isRelevant": true,
+    "mainSubject": "Value for money / price-performance ratio",
+    "positives": ["Product has no flaws", "Performs as expected"],
+    "painPoints": [
+      "Not worth the price",
+      "Cheaper products offer similar performance with lower specs"
+    ],
+    "improvementSuggestions": [
+      "Lower the price to better match performance",
+      "Offer better value proposition compared to cheaper alternatives"
+    ],
+    "featuresMentioned": ["Price", "Performance", "Specifications"],
+    "userExpertise": "Experienced"
+  }
+]
