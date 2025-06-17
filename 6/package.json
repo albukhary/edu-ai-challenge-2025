@@ -1,0 +1,14 @@
+{
+  "name": "enigma-machine",
+  "version": "1.0.0",
+  "description": "Enigma Machine CLI implementation",
+  "main": "enigma.js",
+  "scripts": {
+    "test": "mocha enigma.test.js",
+    "start": "node enigma.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
