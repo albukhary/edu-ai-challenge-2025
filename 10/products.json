@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 99.99,
+      "rating": 4.5,
+      "in_stock": true,
+      "description": "High-quality wireless headphones with noise cancellation"
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": 199.99,
+      "rating": 4.6,
+      "in_stock": true,
+      "description": "Fitness tracking smartwatch with heart rate monitor"
+    },
+    {
+      "id": 3,
+      "name": "Yoga Mat",
+      "category": "Fitness",
+      "price": 29.99,
+      "rating": 4.3,
+      "in_stock": true,
+      "description": "Non-slip yoga mat for home workouts"
+    },
+    {
+      "id": 4,
+      "name": "Blender",
+      "category": "Kitchen",
+      "price": 79.99,
+      "rating": 4.0,
+      "in_stock": false,
+      "description": "High-speed blender for smoothies and food processing"
+    },
+    {
+      "id": 5,
+      "name": "Novel",
+      "category": "Books",
+      "price": 14.99,
+      "rating": 4.8,
+      "in_stock": true,
+      "description": "Bestselling fiction novel"
+    },
+    {
+      "id": 6,
+      "name": "Running Shoes",
+      "category": "Clothing",
+      "price": 89.99,
+      "rating": 4.4,
+      "in_stock": true,
+      "description": "Comfortable running shoes with good support"
+    },
+    {
+      "id": 7,
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 899.99,
+      "rating": 4.7,
+      "in_stock": true,
+      "description": "Powerful laptop for work and gaming"
+    },
+    {
+      "id": 8,
+      "name": "Coffee Maker",
+      "category": "Kitchen",
+      "price": 49.99,
+      "rating": 4.2,
+      "in_stock": true,
+      "description": "Programmable coffee maker with timer"
+    },
+    {
+      "id": 9,
+      "name": "Dumbbells",
+      "category": "Fitness",
+      "price": 39.99,
+      "rating": 4.5,
+      "in_stock": false,
+      "description": "Set of adjustable dumbbells for home gym"
+    },
+    {
+      "id": 10,
+      "name": "T-shirt",
+      "category": "Clothing",
+      "price": 19.99,
+      "rating": 4.0,
+      "in_stock": true,
+      "description": "Comfortable cotton t-shirt"
+    }
+  ]
+}
