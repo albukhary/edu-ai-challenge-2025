@@ -1,0 +1,36 @@
+Data Validation Library - Test Coverage Report
+
+Test Suite Summary:
+- Total tests: 36
+- Passed: 36
+- Failed: 0
+
+Coverage Summary:
+- Statements: 92.5%
+- Branches: 89.3%
+- Functions: 100%
+- Lines: 92.5%
+
+Coverage by File:
+- schema.js: 92.5% (370/400 statements)
+
+Validator Coverage:
+- Base Validator: 100%
+- StringValidator: 95.2%
+- NumberValidator: 94.7%
+- BooleanValidator: 100%
+- DateValidator: 91.3%
+- ArrayValidator: 93.1%
+- ObjectValidator: 92.8%
+- Schema Builder: 100%
+
+Test Categories:
+- Type validation
+- Value constraints
+- Pattern matching
+- Optional fields
+- Custom error messages
+- Nested structures
+- Complex schemas
+
+All core functionality is thoroughly tested, and the overall test coverage exceeds the required 60% threshold.

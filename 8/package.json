@@ -1,0 +1,20 @@
+{
+  "name": "data-validation-library",
+  "version": "1.0.0",
+  "description": "A robust data validation library for complex inputs",
+  "main": "schema.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "test:report": "jest --coverage && cat ./coverage/lcov-report/index.html > test_report.txt"
+  },
+  "keywords": [
+    "validation",
+    "schema",
+    "data"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
